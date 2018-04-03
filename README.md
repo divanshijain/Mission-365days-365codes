@@ -4,3 +4,5 @@
 #
 # Code2 : Applying inbuilt Linear Regression on various datasets that include iris dataset,diabetes dataset and boston dataset.
 # Used different model selection tools for evaluation.
+#
+# Code3 : Optimisation of Linear Regression by Gradient Descent(Code from scratch) over single feature.
